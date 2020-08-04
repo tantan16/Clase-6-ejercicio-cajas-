@@ -1,0 +1,39 @@
+
+.body{
+    background-color: lightcyan;
+}.titulo{
+    font-family: Montserrat;
+    font-size: 50px;
+    text-align: center;
+    margin: 15px;
+padding:38px;
+}
+.texto{
+    font-family: Montserrat;
+    font-size: larger;
+    text-align: center;
+    font-weight: lighter;
+    margin: 50px;
+    padding: 40 px
+}
+.section{
+    text-align: center;
+}
+.primercubo
+{
+    font-family: Montserrat;
+    height: 200px;
+    width: 200px;
+    margin: 15px;
+    box-sizing: border-box;
+    display: inline-block;
+    background-color: #fafafa;
+    border: 3px solid #F8F8FF;
+    border-radius: 20px;
+    padding: 10px;
+    text-align: center;
+}
+.imagen{
+width:90px;
+height: auto;
+}
